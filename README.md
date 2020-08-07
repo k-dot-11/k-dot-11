@@ -4,6 +4,11 @@
 
 - 🔭 I’m currently pursuing B.E. Electrical and Electronics Engineering along with MSc. Biological Sciences in the Pilani Campus.
 - 🌱 I’m a React and React Native developer and do small freelance projects in my free time.
+- 🥅 I've previously worked on small time projects and part time internships
+        -> Interned at IndiaBuys Hyderabad and helped them integrate an E-Commerce facility in their platform
+        -> Currently building website for the Bungalow Udaipur restaurant
+        -> Working on a side project-cum-startup
+        -> Built an app to track your FaceIt stats in Counter Strike Global Offensive
 
 ### Connect with me:
 
