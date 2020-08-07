@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="bugdroid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="bugdroid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="bugdroid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -24,3 +24,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
+
+[linkedin]: linkedin.com/in/karnaveer-s-a38709116
+[gmail]:https://mail.google.com/mail/u/0/?view=cm&fs=1&to=karnatheveer@gmail.com&su=SUBJECT&body=BODY&&tf=1
