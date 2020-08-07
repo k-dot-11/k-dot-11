@@ -25,5 +25,5 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
 
-[linkedin]:www.linkedin.com/in/kDot11
-[gmail]:https://mail.google.com/mail/u/0/?view=cm&fs=1&to=karnatheveer@gmail.com&su=SUBJECT&body=BODY&&tf=1
+[linkedin]: www.linkedin.com/in/kDot11
+[gmail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=karnatheveer@gmail.com&su=SUBJECT&body=BODY&&tf=1
