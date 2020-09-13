@@ -1,4 +1,4 @@
-### Hi there, I am K-Dot
+### Hi there, I am Karnaveer
 
 ## I'm a student at BITS Pilani and a part time freelancer 
 
