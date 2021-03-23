@@ -11,8 +11,6 @@
 
 <br/>
                 -> Interned at IndiaBuys Hyderabad and helped them integrate an E-Commerce facility in their platform<br/>
-                -> Currently building website for the Bungalow Udaipur restaurant<br/>
-                -> Working on a side project-cum-startup<br/>
                 -> Built an app to track your FaceIt stats in Counter Strike Global Offensive<br/>
 
 ### Connect with me:
