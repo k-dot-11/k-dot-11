@@ -1,4 +1,4 @@
-### Hi there, I am Karnaveer
+### Hi there
 
 ## I'm a student at BITS Pilani and a part time freelancer 
 
