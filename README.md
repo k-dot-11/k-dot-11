@@ -11,7 +11,7 @@
 
 <br/>
                 -> Interned at IndiaBuys Hyderabad and helped them integrate an E-Commerce facility in their platform<br/>
-                -> Built an app to track your FaceIt stats in Counter Strike Global Offensive<br/>
+                -> Interned at Samsung Research Institute Bangalore and worked on Android Development as well as integration of WhatsApp Business Platform for Samsung Marketing
 
 ### Connect with me:
 
